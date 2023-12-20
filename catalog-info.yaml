@@ -8,4 +8,6 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
+  providesApis:
+  - apis-guru
   owner: "group:default/guests"
