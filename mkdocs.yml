@@ -1,0 +1,7 @@
+site_name: "TestNode Docs"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
